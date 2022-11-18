@@ -1,0 +1,60 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Noticia 1",
+      "description": "Esta es mi noticia papus",
+      "date": "2022-11-17",
+      "imageUrl": "https://www.egames.news/__export/1652821426362/sites/debate/img/2022/05/17/wano1-_1.jpg_903948830.jpg",
+      "author": "Jorss"
+    },
+    {
+      "id": 2,
+      "title": "Noticia 2",
+      "description": "Esta es mi noticia papus",
+      "date": "2022-11-17",
+      "imageUrl": "https://www.egames.news/__export/1652821426362/sites/debate/img/2022/05/17/wano1-_1.jpg_903948830.jpg",
+      "author": "The Jorss"
+    },
+    {
+      "id": 3,
+      "title": "Noticia 2",
+      "description": "Esta es mi noticia papus",
+      "date": "2022-11-17",
+      "imageUrl": "https://www.egames.news/__export/1652821426362/sites/debate/img/2022/05/17/wano1-_1.jpg_903948830.jpg",
+      "author": "The Jorss"
+    },
+    {
+      "id": "4",
+      "title": "Noticia 4",
+      "description": "Noticia 3 creada",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/553/527/816/one-piece-gear-fourth-monkey-d-luffy-hd-wallpaper-preview.jpg",
+      "author": "The jorss",
+      "date": "2022-11-17"
+    },
+    {
+      "id": "5",
+      "title": "Noticia 5",
+      "description": "Noticia 5 creada",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/553/527/816/one-piece-gear-fourth-monkey-d-luffy-hd-wallpaper-preview.jpg",
+      "author": "The jorss",
+      "date": "2022-11-17"
+    },
+    {
+      "id": "0vXJo8L",
+      "title": "",
+      "description": "",
+      "imageUrl": "",
+      "author": "",
+      "date": ""
+    },
+    {
+      "id": "6",
+      "title": "Noticia 6",
+      "description": "noticia 6 creada",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/553/527/816/one-piece-gear-fourth-monkey-d-luffy-hd-wallpaper-preview.jpg",
+      "author": "Jorss",
+      "date": "2022-11-17"
+    }
+  ]
+}
